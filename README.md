@@ -1,0 +1,2 @@
+# EosWebApiDependabot
+Dependabot for EosWebApi
