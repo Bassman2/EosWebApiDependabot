@@ -11,7 +11,7 @@ updates:
       interval: "weekly"
       
   - package-ecosystem: "nuget"
-    directory: "EosWebApi"
+    directory: "/EosWebApi"
     schedule:
       interval: "weekly"
 
